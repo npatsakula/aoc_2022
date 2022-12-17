@@ -1,0 +1,6 @@
+packages: .
+
+source-repository-package
+    type: git
+    location: https://github.com/AndrasKovacs/flatparse.git
+    tag: e29f98b2ea0d0a190a182770e7d8281113d23781
