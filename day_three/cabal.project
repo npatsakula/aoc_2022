@@ -1,4 +1,4 @@
-packages: day_one, day_two, day_three
+packages: .
 
 source-repository-package
     type: git
